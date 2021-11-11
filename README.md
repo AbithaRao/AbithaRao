@@ -4,6 +4,7 @@ I'm Abitha Rao and I'm currently in my 3rd year of Electronics and Communication
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abitharao)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
